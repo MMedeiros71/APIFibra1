@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32b83d76-7884-4cc6-a2ef-f73af78a4fd2" name="KingHost-APIFibra" url="http://ftp.fibracsninvest.com.br">
+        <fileTransfer rootFolder="/www/appfibra" host="ftp.fibracsninvest.com.br" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

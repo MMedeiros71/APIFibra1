@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="KingHost-APIFibra" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="KingHost-APIFibra">
+        <serverdata>
+          <mappings>
+            <mapping local="C:/Program Files/dotnet/sdk/5.0.400/Sdks/Microsoft.NET.Sdk/analyzers/build/config/AnalysisLevel_5_Default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/.gitignore" web="/" />
+            <mapping local="$PROJECT_DIR$/APIFibra.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/APIFibra.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Controllers/AdministrativoController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Controllers/BaseApiController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTOs/LoginAdmDto.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/DTOs/UserAdmDto.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Data/DataContext.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Entities/Administrativo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Extensions/ApplicationServicesExtensions.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Extensions/IdentityServiceExtension.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Interfaces/ITokenService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Migrations/20220317124531_Inicial.Designer.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Migrations/20220317124531_Inicial.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Migrations/DataContextModelSnapshot.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/README.md" web="/" />
+            <mapping local="$PROJECT_DIR$/Services/TokenService.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/global.json" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net5.0/APIFibra.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/obj/Debug/net5.0/APIFibra.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
