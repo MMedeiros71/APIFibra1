@@ -52,6 +52,7 @@ namespace APIFibra.Migrations
                     BancoTipoConta = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BancoNome = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BancoNumero = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    BancoAgencia = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BancoConta = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     OperaTerceiros = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     TransmissaoOrdens = table.Column<string>(type: "nvarchar(max)", nullable: true),

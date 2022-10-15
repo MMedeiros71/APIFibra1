@@ -18,7 +18,7 @@ namespace APIFibra.Data
             return await _dataContext.Recadastros.AsNoTracking().FirstOrDefaultAsync(x => x.Numcotista == numCotista);
         }
         
-        public void IncluiCota(Recadastro recadastro)
+        public void IncluiRecadastro(Recadastro recadastro)
         {
             _dataContext.Recadastros.Add(recadastro);
         }
